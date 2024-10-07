@@ -2,3 +2,5 @@
 - do relevant projects and analysis
 
 - SAS AND R projects
+
+- just successfully fetched from remote, and then synced successfully. 
