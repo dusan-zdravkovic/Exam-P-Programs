@@ -1,2 +1,4 @@
 - plot all the distributions
 - do relevant projects and analysis
+
+- SAS AND R projects
