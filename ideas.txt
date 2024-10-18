@@ -1,6 +1,6 @@
-- plot all the distributions
-- do relevant projects and analysis
+- plot all the distributions - done
+- do relevant projects and analysis - not done
 
-- SAS AND R projects
+- SAS AND R projects - started
 
 - just successfully fetched from remote, and then synced successfully. 
