@@ -4,3 +4,5 @@
 - SAS AND R projects - started
 
 - just successfully fetched from remote, and then synced successfully. 
+
+- start insurance project soon
